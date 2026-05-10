@@ -27,3 +27,4 @@ Local LLM chat agent with persistent conversation history.
 - Type hints everywhere, Pydantic models for all request/response schemas
 - Tests in /tests, split into unit/ and integration/
 - Integration tests mock the Ollama client, don't require a live model
+- Use test-driven development
