@@ -9,6 +9,7 @@ dependencies:
   - pydantic>=2.9
   - pydantic-settings>=2.6
   - pytest>=8
+  - httpx>=0.27
   - pip
   - pip:
       - ollama>=0.4
